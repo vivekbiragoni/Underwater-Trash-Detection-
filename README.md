@@ -11,35 +11,7 @@ https://github.com/user-attachments/assets/d336eed3-aa80-4e9d-a57c-cd7a96081d02
 
 
 
-# Cite
-```
-@misc{walia2024deeplearninginnovationsunderwater,
-      title={Deep Learning Innovations for Underwater Waste Detection: An In-Depth Analysis}, 
-      author={Jaskaran Singh Walia and Pavithra L K},
-      year={2024},
-      eprint={2405.18299},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2405.18299}, 
-}
 
-@InProceedings{10.1007/978-3-031-43360-3_24,
-author="Walia, Jaskaran Singh
-and Seemakurthy, Karthik",
-editor="Iida, Fumiya
-and Maiolino, Perla
-and Abdulali, Arsen
-and Wang, Mingfeng",
-title="Optimized Custom Dataset for Efficient Detection of Underwater Trash",
-booktitle="Towards Autonomous Robotic Systems",
-year="2023",
-publisher="Springer Nature Switzerland",
-address="Cham",
-pages="292--303",
-}
-
-
-```
 
 
 # Yolov8x 
